@@ -154,10 +154,9 @@ import telebot
 import io
 import telegram.ext
 import telegram_send
-token='5526476876:AAG977Ez0Fg7xajbtt_IYO1UL6N4T26HTP0' #gyanesh
-chat_id='-652505017'#gyanesh group
-# token='5409994509:AAE6UCISSah7xT3IPtV7W3CzZL9CFa6vYH0'
-# chat_id='5409994509'
+token='#########################' #can be obtained from Botfather bot in telegram
+chat_id='########'  
+
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------
 import requests
